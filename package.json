@@ -26,7 +26,7 @@
     "apollo-link-retry": "2.2.5",
     "aws-sdk": "2.329.0",
     "debug": "2.6.9",
-    "graphql": "^0.11.7",
+    "graphql": "https://github.com/hashamhabib/graphql-es6.git",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "setimmediate": "^1.0.5",
