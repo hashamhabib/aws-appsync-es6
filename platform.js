@@ -1,0 +1,2 @@
+var userAgent = '';
+export { userAgent };
