@@ -24,7 +24,7 @@
     "apollo-link-context": "1.0.9",
     "apollo-link-http": "1.3.1",
     "apollo-link-retry": "2.2.5",
-    "aws-sdk": "2.329.0",
+    "aws-sdk": "https://github.com/hashamhabib/aws-sdk-es6.git",
     "debug": "2.6.9",
     "graphql": "https://github.com/hashamhabib/graphql-es6.git",
     "redux": "^3.7.2",
