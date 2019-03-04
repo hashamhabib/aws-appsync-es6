@@ -1,0 +1,19 @@
+{
+  "name": "aws-appsync-es6",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000w\u0000s\u0000-\u0000a\u0000p\u0000p\u0000s\u0000y\u0000n\u0000c\u0000-\u0000e\u0000s\u00006\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashamhabib/aws-appsync-es6.git"
+  },
+  "author": "itshashamhabib@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashamhabib/aws-appsync-es6/issues"
+  },
+  "homepage": "https://github.com/hashamhabib/aws-appsync-es6#readme"
+}
