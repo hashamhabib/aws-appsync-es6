@@ -23,7 +23,7 @@
     "apollo-link": "git+https://github.com/hashamhabib/apollo-link.git",
     "apollo-link-context": "git+https://github.com/hashamhabib/apollo-link-context.git",
     "apollo-link-http": "git+https://github.com/hashamhabib/apollo-link-http.git",
-    "apollo-link-retry": "2.2.5",
+    "apollo-link-retry": "git+https://github.com/hashamhabib/apollo-link-retry.git",
     "aws-sdk": "https://github.com/hashamhabib/aws-sdk-es6.git",
     "debug": "2.6.9",
     "graphql": "https://github.com/hashamhabib/graphql.git",
