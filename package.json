@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hashamhabib/aws-appsync-es6#readme",
   "dependencies": {
-    "@redux-offline/redux-offline": "2.2.1",
+    "@redux-offline/redux-offline": "git+https://github.com/hashamhabib/redux-offline.git",
     "apollo-cache-inmemory": "git+https://github.com/hashamhabib/apollo-cache-inmemory.git",
     "apollo-client": "git+https://github.com/hashamhabib/apollo-client.git",
     "apollo-link": "git+https://github.com/hashamhabib/apollo-link.git",
