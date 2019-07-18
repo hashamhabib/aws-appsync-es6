@@ -1,2 +1,2 @@
-import Signer from './signer';
-export { Signer };
+import Signer from './signer'
+export { Signer }
