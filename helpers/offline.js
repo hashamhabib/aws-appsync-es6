@@ -12,7 +12,8 @@ var __assign = (this && this.__assign) || function () {
 };
 
 //  var uuid_1 = require("uuid");
-import * as uuid_1 from 'uuid';
+//import * as uuid_1 from 'uuid';
+import { v4 as uuidv4 } from 'uuid';
 // var apollo_utilities_1 = require("apollo-utilities");
 import * as apollo_utilities_1 from 'apollo-utilities/lib/bundle.esm';
 // var client_1 = require("../client");
@@ -269,7 +270,7 @@ var buildMutation = function (client, mutation, variablesInfo, cacheUpdateQuery,
         optimisticResponse: typename ? (_b = {
             __typename: "Mutation"
         },
-            _b[mutationField] = __assign((_c = { __typename: typename }, _c[idField] = (hasInputType ? variables.input : variables)[idField] || uuid_1.v4(), _c), (hasInputType ? variables.input : variables), { version: version + 1 }),
+            _b[mutationField] = __assign((_c = { __typename: typename }, _c[idField] = (hasInputType ? variables.input : variables)[idField] || uuidv4(), _c), (hasInputType ? variables.input : variables), { version: version + 1 }),
             _b) : null,
         update: function (proxy, _a) {
             var _b = mutationField, mutatedItem = _a.data[_b];
