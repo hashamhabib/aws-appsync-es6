@@ -13,7 +13,8 @@ var __assign = (this && this.__assign) || function () {
 
 //  var uuid_1 = require("uuid");
 //import * as uuid_1 from 'uuid';
-import { v4 as uuidv4 } from 'uuid/dist/esm-node/index';
+//import { v4 as uuidv4 } from 'uuid/dist/esm-node/index';
+// TODO FIX crypto module issue in uuid
 // var apollo_utilities_1 = require("apollo-utilities");
 import * as apollo_utilities_1 from 'apollo-utilities/lib/bundle.esm';
 // var client_1 = require("../client");
